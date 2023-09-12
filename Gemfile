@@ -1,5 +1,5 @@
 source :rubygems
-ruby "3.2.2"
+ruby "2.7.2"
 
 gem "guillotine", "1.4.0"
 gem "redis"
