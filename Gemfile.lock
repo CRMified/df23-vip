@@ -20,7 +20,7 @@ PLATFORMS
 
 DEPENDENCIES
   guillotine (= 1.4.0)
-  puma (~> 6.0)
+  puma
   redis
 
 RUBY VERSION
